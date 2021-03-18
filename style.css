@@ -114,14 +114,14 @@ a.nav-link{
 
 .intro  p{
     margin: 5px;
-	font-size:1.2rem;
+	font-size:1.27rem;
 	font-family: var(--main-font-family);
 	text-align:center;
 }
 
 .intro  p.small{
     margin: 5px;
-	font-size:0.65rem;
+	font-size:0.83rem;
 	font-family: var(--main-font-family);
 	text-align:center;
 }
