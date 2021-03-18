@@ -121,7 +121,7 @@ a.nav-link{
 
 .intro  p.small{
     margin: 5px;
-	 /* width required for text-overflow to work */
+	 width: 200px;/* width required for text-overflow to work */
    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
