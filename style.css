@@ -124,7 +124,7 @@ a.nav-link{
 	 width: 200px;/* width required for text-overflow to work */
 	font-size:auto;
    white-space: nowrap;
-    overflow: hidden;
+    
     text-overflow: ellipsis;
 	font-family: var(--main-font-family);
 	text-align:center;
