@@ -126,9 +126,6 @@ a.nav-link{
    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-	
-	
-	font-size:0.92rem;
 	font-family: var(--main-font-family);
 	text-align:center;
 }
