@@ -120,13 +120,13 @@ a.nav-link{
 }
 
 .intro  p.small{
-    margin: auto;
+    margin: 5px;
 	width: 200px; /* width required for text-overflow to work */
    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-	display: flex;
-	flex-direction: column;
+	
+	
 	font-size:0.92rem;
 	font-family: var(--main-font-family);
 	text-align:center;
