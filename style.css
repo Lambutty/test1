@@ -122,9 +122,9 @@ a.nav-link{
 .intro  small{
     	margin: 5px;
 	/* width required for text-overflow to work */
-    	border: 1px ; 
+    	border: 10px ; 
 	font-style: normal;
-	padding: 15px;
+	padding: 50vw;
 	min-width:100px;
 	display: inline-block;
 	font-family: var(--main-font-family);
