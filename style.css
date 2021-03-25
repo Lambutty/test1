@@ -119,13 +119,15 @@ a.nav-link{
 	text-align:center;
 }
 
-.intro  small{
-    	margin: 5px;
+.small p{
+    margin: 1px;
 	/* width required for text-overflow to work */
-    	border: 10px ; 
+    font-size:0.75rem;
+    border: 10px ; 
 	font-style: normal;
-	padding: 50vw;
-	min-width:100px;
+	padding: 1px;
+	min-width:10vw;
+    max-width:35vw;
 	display: inline-block;
 	font-family: var(--main-font-family);
 	
