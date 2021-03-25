@@ -1,6 +1,6 @@
 Thanks to Lilykhan for providing the template.
 This is her Description.
-I added my personal stuff.
+I added my personal stuff and changed a few things.
 
 ## Portfolio Website Template
 
